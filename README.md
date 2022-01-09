@@ -15,7 +15,7 @@ You can find me on [![LinkedIn][1.1]][1]
 
 <!-- Icons -->
 
-[1.1]: https://logodix.com/logo/79661.png
+[1.1]: https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png
 
 <!-- Links to your social media accounts -->
 
