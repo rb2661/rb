@@ -11,7 +11,7 @@ I'm Rory Butler, an aspiring Data Scientist.
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][1.1]][1].
 
 <!-- Icons -->
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
