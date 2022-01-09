@@ -13,10 +13,5 @@ I'm Rory Butler, an aspiring Data Scientist.
 
 You can find me on [![LinkedIn][1.1]][1]
 
-<!-- Icons -->
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rory-butler-410821a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/rory-butler-410821a0?trk=profile-badge">Rory Butler</a></div>
 
-[1.1]: https://blog-assets.hootsuite.com/wp-content/uploads/2018/09/In-2C-54px-R.png
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.linkedin.com/in/rory-butler-410821a0/
