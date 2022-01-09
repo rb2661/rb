@@ -2,7 +2,7 @@ Hi there!
 
 I'm Rory Butler, an aspiring Data Scientist.
 
-
+[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white]
 
 [![Rory's GitHub stats](https://github-readme-stats.vercel.app/api?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
 
@@ -11,7 +11,7 @@ I'm Rory Butler, an aspiring Data Scientist.
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][1.1]][1].
+[![LinkedIn][1.1]][1] 
 
 <!-- Icons -->
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
