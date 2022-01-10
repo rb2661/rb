@@ -9,7 +9,8 @@ I'm Rory Butler, an aspiring Data Scientist.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0067B8?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0067B8?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 
