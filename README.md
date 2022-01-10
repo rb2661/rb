@@ -1,6 +1,6 @@
 Hi there!
 
-I'm Rory Butler, an aspiring Data Scientist.
+My name is Rory Butler, I'm a Data Analyst at Columbia College. I'm currently pursuing my Master's degree in Quantitative Methods in Social Sciences at Columbia's Graduate School of Arts & Sciences. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -10,7 +10,7 @@ I'm Rory Butler, an aspiring Data Scientist.
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-0067B8?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0067B8?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 
