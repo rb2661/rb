@@ -1,7 +1,8 @@
+<p align="center">
 Hi there! I'm Rory Butler
 
-* Data Analyst in New York City
-* Master's Student in Quantitative Methods in the Social Sciences at Columbia University
+I'm a Data Analyst located in NYC. I have 5+ years of experience in Data Analytics & Data Engineering. I'm enrolled Columbia University's Master's program for Quantitative Methods in the Social Sciences. I'm striving to 
+</p>
 
 <!-- Actual text -->
 More about me here:
