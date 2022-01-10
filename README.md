@@ -4,6 +4,7 @@ Hi there! I'm Rory Butler
 * Master's Student in Quantitative Methods in the Social Sciences at Columbia University
 
 <!-- Actual text -->
+More about me here:
 
 [![LinkedIn][1.1]][1] 
 
