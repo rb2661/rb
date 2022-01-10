@@ -1,8 +1,9 @@
+<p align="center">
 Hi there! I'm Rory Butler
 
 * Data Analyst in New York City
-* Master's Student 
-
+* Master's Student in Quantitative Methods in the Social Sciences at Columbia University
+</p>
 <!-- Actual text -->
 
 [![LinkedIn][1.1]][1] 
@@ -18,7 +19,7 @@ Hi there! I'm Rory Butler
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
 
-Languages:
+I have programming experience in:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -29,8 +30,6 @@ Languages:
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-
-
+</p>
 
 
