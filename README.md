@@ -1,6 +1,7 @@
 Hi there! I'm Rory Butler
 
-Data Analyst in New York City
+* Data Analyst in New York City
+* Master's Student 
 
 <!-- Actual text -->
 
@@ -11,6 +12,11 @@ Data Analyst in New York City
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/rory-butler-410821a0/
+
+
+[![Rory's GitHub stats](https://github-readme-stats.vercel.app/api?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
 
 Languages:
 
@@ -25,9 +31,6 @@ Languages:
 
 
 
-[![Rory's GitHub stats](https://github-readme-stats.vercel.app/api?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
 
 
 
