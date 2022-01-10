@@ -1,6 +1,18 @@
-Hi there!
+Hi there! I'm Rory Butler
 
-My name is Rory Butler, I'm a Data Analyst at Columbia College. I'm currently pursuing my Master's degree in Quantitative Methods in Social Sciences at Columbia's Graduate School of Arts & Sciences. 
+Data Analyst in New York City
+
+<!-- Actual text -->
+
+[![LinkedIn][1.1]][1] 
+
+<!-- Icons -->
+[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/rory-butler-410821a0/
+
+Languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -19,12 +31,4 @@ My name is Rory Butler, I'm a Data Analyst at Columbia College. I'm currently pu
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb2661&theme=tokyonight)](https://github.com/rb2661/github-readme-stats)
 
 
-<!-- Actual text -->
 
-[![LinkedIn][1.1]][1] 
-
-<!-- Icons -->
-[1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/rory-butler-410821a0/
