@@ -1,9 +1,8 @@
-<p align="center">
 Hi there! I'm Rory Butler
 
 * Data Analyst in New York City
 * Master's Student in Quantitative Methods in the Social Sciences at Columbia University
-</p>
+
 <!-- Actual text -->
 
 [![LinkedIn][1.1]][1] 
@@ -29,7 +28,3 @@ I have programming experience in:
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</p>
-
-
