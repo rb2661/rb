@@ -6,6 +6,11 @@ Hi there! I'm Rory Butler
 <!-- Actual text -->
 More about me here:
 
+<p align="center">
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center">](https://www.linkedin.com/in/rory-butler-410821a0/)
+</p>
+
+
 [![LinkedIn][1.1]][1] 
 
 <!-- Icons -->
